@@ -3,43 +3,44 @@
 ### Subtitle: Hermes Agent × Ollamaで構築する「AI店長」の作り方
 
 ## 1. Concept & Goals
-- **Target Audience**: Retail store owners with limited IT knowledge but motivated to use Mac/VPS for automation.
-- **Core Value**: Transition from "Chatbot (reactive)" to "Autonomous Agent (proactive)" for business operations.
-- **Goal**: A practical, step-by-step guide that allows non-engineers to deploy a "Digital Store Manager" who works 24/7 without constant prompting.
-- **Key Theme**: "Low-barrier entry to High-capability autonomy."
+- **Target Audience**: 日本の小売店主（IT知識は少ないが、Mac/VPSを用いて店舗運営を自動化したい方）。
+- **Core Value**: 「指示待ちのチャットAI」から「自ら動く自律型エージェント」への転換。
+- **Goal**: 非エンジニアでも導入可能な、24時間365日稼働する「デジタル店長」の構築ガイド。
+- **Key Theme**: 「導入ハードルは低く、得られる自律性は高く」。
 
 ## 2. Structural Design (TOC)
-### Chapter 1: The Necessity of Autonomous Agents in Retail
-- 1.1 Chatbot vs. Autonomous Agent (Reactive to Proactive)
-- 1.2 Why Retail? Data-rich environments as AI's playground.
-- 1.3 Global Insights: Modern AI store management examples from global communities.
+### 第1章：なぜ今、小売店に「自律型AIエージェント」が必要なのか？
+- 1.1 チャットAI（ChatGPT等）と自律型エージェント（Hermes）の違い
+- 1.2 小売業こそAIの恩恵を最大化できる理由
+- 1.3 海外の最新事例から見る「AI店舗運営」の未来
 
-### Chapter 2: Preparing the "Home" for your AI Manager
-- 2.1 VPS vs. Mac: Choosing the right infrastructure.
-- 2.2 Bare Minimum Setup: Copy-paste guide for environment construction.
-- 2.3 Hybrid Intelligence: Leveraging Ollama.com for cloud-local balance.
+### 第2章：【準備編】非エンジニアでもできる「AI店長」の住処作り
+- 2.1 VPSとMac、どっちを使う？
+- 2.2 最小限の準備で環境を構築する
+- 2.3 Ollama.comの魔法：クラウドとローカルのいいとこ取り
 
-### Chapter 3: Training the "AI Store Manager"
-- 3.1 Teaching "Store Rules": Using Memory and Skills.
-- 3.2 Designing Autonomous Tasks: From prompt to system.
-- 3.3 The Growth Cycle: Iterative learning and error correction.
+### 第3章：【実践編】Hermes Agentを「店長」に育てる方法
+- 3.1 エージェントに「店のルール」を教え込む（メモリとスキルの活用）
+- 3.2 現場で使える「自律タスク」の設計図
+- 3.3 エラーを恐れない！AI店長との「共同成長」サイクル
 
-### Chapter 4: Practical Use-Cases (The Recipes)
-- 4.1 Market Analysis: Automated competitor and trend monitoring.
-- 4.2 Inventory & Ordering: Data-driven stock optimization.
-- 4.3 Customer Insight: Automated analysis of SNS and reviews.
+### 第4章：【活用レシピ】小売店運営を自動化する具体策
+- 4.1 【市場分析】競合店とトレンドの自動監視
+- 4.2 【在庫・発注】データに基づいた最適化の自動化
+- 4.3 【集客・分析】SNSと顧客レビューの自動解析
 
-### Chapter 5: Advanced Expansion
-- 5.1 Notion as the "Store Ledger": Seamless agent-human collaboration.
-- 5.2 The 24/7 Cycle: Using cron for overnight automation.
+### 第5章：【応用編】AI店長をさらに賢く、便利にする拡張術
+- 5.1 Notionを「店長ノート」にする連携術
+- 5.2 定期実行（cron）で「寝ている間」に店を回す
 
-### Epilogue: The Future of Retail with AI
+### おわりに：AIと共に歩む、新しい小売店の形
 
 ## 3. Implementation Guidelines
+- **Language**: **All content must be written in Japanese.** (本文はすべて日本語で執筆すること)
+- **Tone & Style**: 日本の店主が親しみやすく、かつ信頼感を持って読めるトーン。専門用語は極力避け、使う場合は必ず噛み砕いて説明すること。
 - **Volume**: 50-80 pages (Approx. 30k-50k characters).
-- **Tone & Style**: Supportive, encouraging, and accessible. Avoid jargon; when used, explain simply.
 - **Content Balance**: Theory (20%) / Setup (30%) / Practical Recipes (50%).
-- **Special Feature**: "World Wide Insight" sections in every chapter to introduce cutting-edge English-source AI trends.
+- **Special Feature**: "World Wide Insight" sections in every chapter to introduce cutting-edge English-source AI trends (translated and localized for Japanese retail context).
 
 ## 4. Workflow Instructions
 - **Task Management**: Each section/subsection is mapped to a GitHub Issue.
